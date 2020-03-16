@@ -1,0 +1,102 @@
+{"skdar": {
+  "feature": [
+  {
+    "description": "Madonna, das Abbild der Gottesmutter, welche das Jesuskind aus dem Himmel zur Erden trägt. Das Madonnabildnis bezeichnet die Darstellung der Maria zusammen mit dem Jesuskind",
+    "image": "./src/images/madonna/Madonna_Head.jpg",
+    "coordinates": "120 500 0",
+    "name": "Die Madonna mit Kind",
+    "component": "madonna-head",
+    "visible": "true"
+  },
+  {
+    "description": "Der heilige Sixtus, nach ihm wurde das Madonnenbildnis von Raffael benannt. Da dieses Gemälde für die Klosterkirche San Sisto in Piacenza angefertigt wurde und der Hochaltar unter anderem dem heiligen Sixtus geweiht war, ist dieser auf dem Gemälde zu finden.",
+    "image": "./src/images/madonna/Madonna_man.jpg",
+    "coordinates": "45 390 0",
+    "name": "Der Heilige Sixtus",
+    "component": "madonna-man",
+    "visible": "false"
+  },
+  {
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+    "image": "./src/images/madonna/Madonna_woman.jpg",
+    "coordinates": "200 420 0",
+    "name": "Barbara von Nikomedien",
+    "component": "madonna-woman",
+    "visible": "false"
+  },
+  {
+    "description": "Die wohl bekanntesten Figuren aus dem Gemälde. Seit etwa 1800 machen die Engelchen eine ganz eigene Karriere in Kunst, Design und Kitsch.",
+    "image": "./src/images/madonna/Madonna_angels.jpg",
+    "coordinates": "120 250 0",
+    "name": "Die Engel",
+    "component": "madonna-angels",
+    "visible": "false"
+  },
+  {
+    "description": "Für viele auf den ersten Blick nicht zu erkennen, doch bei dem Hintergrund handelt es sich nicht um gewöhnliche Wolken. Jede Wolke beinhaltet ein Gesicht, um genauer zu sein sind es sogar Engelsgesichter.",
+    "image": "./src/images/madonna/Madonna_clouds.jpg",
+    "coordinates": "35 470 0",
+    "name": "Die Wolken",
+    "component": "madonna-clouds",
+    "visible": "false"
+  }
+],
+  "imageGallery": [
+    {
+      "id": "garten",
+      "name": "Die Villa Raffaels in Rom",
+      "artist": "Ernst Ferdinand Oehme",
+      "position": "-150 500 0",
+      "transformPosition": "100 325 1",
+      "src": "./src/images/madonna/die_villa.jpg",
+      "transformWidth": "340",
+      "transformHeight": "400",
+      "width": "150",
+      "height": "200",
+      "description": "Um die sixtinische Madonna ranken sich viele Legenden. So beschäftigte zum Beispiel einige Schriftsteller die Frage, wer das Modell der Madonna gewesen sein könnte: War es die namlose Donna Veleta oder die berühmte Bäckerstochter, Raffels Geliebte? \n\nOehme illustriert, wie Raffael das Vorbild für die Madonna und das Jesuskind entdeckt haben mag. Raffael, als Malergenie, ganz in Schwarz gekleidet, spaziert durch den lichtdurchfluteten Park der Villa Borghese, als er auf die Mutter und ihr Kind in der Loggia aufmerksam wird. \nHinweis: Sie können näher an das Bild treten, um die Details besser zu sehen!",
+      "visible": "true"
+    },
+    {
+      "id": "donna",
+      "name": "Donna Velata",
+      "artist": "Raffael",
+      "position": "350 500 0",
+      "transformPosition": "100 325 1",
+      "transformWidth": "310",
+      "transformHeight": "400",
+      "src": "./src/images/madonna/donna.jpg",
+      "width": "150",
+      "height": "200",
+      "description": "Raffael muss in dieser Frau sein Ideal gesehen haben, denn er ließ sich von ihren Gesichtszügen unter anderem für die Gottesmutter der sixtinischen Madonna inspirieren. Die Donna Velata ist eines der schönsten weiblichen Bildnisse, die Raffael schuf. Der Name der Dargestellten ist unbekannt. Die Legende, dass sie die Geliebte des Künstlers gewesen sei, ist sicherlich falsch, denn das Gewand aus Damast und der Schmuck weisen auf ihre gehobene gesellschaftliche Stellung, wie auch der Schleier auf Ehestand und Mutterschaft deutet.",
+      "visible": "false"
+    },
+    {
+      "id": "traum",
+      "name": "Der Traum Raffaels",
+      "artist": "Franz und Johannes Riepenhausen",
+      "position": "-150 200 0",
+      "transformPosition": "100 325 1",
+      "transformWidth": "350",
+      "transformHeight": "400",
+      "src": "./src/images/madonna/traum.jpg",
+      "width": "150",
+      "height": "200",
+      "description": "Die Brüder Riepenhausen verbildlichen mit dem Gemälde die Legende von der Entstehung der sixtinischen Madonna. Die Komposition zeigt einen in tiefen Schlaf gesunkenen Maler, dessen Gesichtszüge an Raffael erinnern. Er sitzt vor der noch nicht vollendeten Sixtinischen Madonna. Den Pinsel hält er in seiner Rechten, als ihm im Schlaf die auf Wolken stehende Madonna mit dem Kind auf dem Arm erscheint, umgeben von göttlichem Licht. Das Werk der beiden deutschen Maler vermittelt den Eindruck, eine himmlische Vision habe Raffael zu seiner Bildidee geführt.",
+      "visible": "false"
+    },
+    {
+      "id": "sketch",
+      "name": "Studie zu Madonna und Kind",
+      "artist": "Raffael",
+      "position": "350 200 0",
+      "transformPosition": "100 325 1",
+      "src": "./src/images/madonna/madonna_sketch.jpg",
+      "transformWidth": "215",
+      "transformHeight": "400",
+      "width": "150",
+      "height": "200",
+      "description": "Es haben sich leider keine direkten Vorzeichnungen zur Sixtinischen Madonna erhalten. Diese Skizze könnte entstanden sein, als Raffael sich erste Gedanken zu dem Gemälde machte. Kurz zuvor hatte er die große Altartafel der Madonna di Foligno (Pinacoteca Vatiana) vollendet. Natürlich gibt es noch viele Unterschiede zur Sixtinischen Madonna, doch die frontale Ansicht der Figuren, der Schleider der Gottesmutter wie auch die Seite, auf der sie das Jesuskind hält, deuten auf das Dresdener Bild hin.",
+      "visible": "false"
+    }
+  ]
+}}

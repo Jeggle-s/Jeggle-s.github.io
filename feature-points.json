@@ -1,0 +1,101 @@
+{"skdar": {
+  "feature": [
+  {
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+    "image": "./src/images/madonna/Madonna_Head.jpg",
+    "coordinates": "0 0.3 -3.9",
+    "name": "Die Madonna mit Kind",
+    "component": "madonna-head"
+  },
+  {
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+    "image": "./src/images/madonna/Madonna_man.jpg",
+    "coordinates": "-1 0.1 -3",
+    "name": "Der Heilige Sixtus",
+    "component": "madonna-man"
+  },
+  {
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+    "image": "./src/images/madonna/Madonna_woman.jpg",
+    "coordinates": "1 0.1 -3",
+    "name": "Barbara von Nikomedien",
+    "component": "madonna-woman"
+  },
+  {
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+    "image": "./src/images/madonna/Madonna_angels.jpg",
+    "coordinates": "0 0.1 -1",
+    "name": "Die Engel",
+    "component": "madonna-angels"
+  },
+  {
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+    "image": "./src/images/madonna/Madonna_clouds.jpg",
+    "coordinates": "-1.2 0.1 -3.6",
+    "name": "Die Wolken",
+    "component": "madonna-clouds"
+  }
+],
+  "imageGallery": [
+    {
+      "id": "garten",
+      "name": "Die Villa Raffaels in Rom",
+      "artist": "Ernst Ferdinand Oehme",
+      "position": "-2.6 0.1 -3.8",
+      "transformPosition": "0 0 -3",
+      "src": "./src/images/madonna/die_villa.jpg",
+      "transformWidth": "3.4",
+      "transformHeight": "4",
+      "width": "1.5",
+      "height": "2",
+      "rotation": "-90 0 0",
+      "description": "Um die sixtinische Madonna ranken sich viele Legenden. So beschäftigte zum Beispiel einige Schriftsteller die Frage, wer das Modell der Madonna gewesen sein könnte: War es die namlose Donna Veleta oder die berühmte Bäckerstochter, Raffels Geliebte? \n\nOehme illustriert, wie Raffael das Vorbild für die Madonna und das Jesuskind entdeckt haben mag. Raffael, als Malergenie, ganz in Schwarz gekleidet, spaziert durch den lichtdurchfluteten Park der Villa Borghese, als er auf die Mutter und ihr Kind in der Loggia aufmerksam wird. \nHinweis: Sie können näher an das Bild treten, um die Details besser zu sehen!",
+      "visible": "true"
+    },
+    {
+      "id": "donna",
+      "name": "Donna Velata",
+      "artist": "Raffael",
+      "position": "2.6 0.1 -3.8",
+      "transformPosition": "0 0 -3",
+      "transformWidth": "3.1",
+      "transformHeight": "4",
+      "src": "./src/images/madonna/donna.jpg",
+      "width": "1.5",
+      "height": "2",
+      "rotation": "-90 0 0",
+      "description": "Raffael muss in dieser Frau sein Ideal gesehen haben, denn er ließ sich von ihren Gesichtszügen unter anderem für die Gottesmutter der sixtinischen Madonna inspirieren. Die Donna Velata ist eines der schönsten weiblichen Bildnisse, die Raffael schuf. Der Name der Dargestellten ist unbekannt. Die Legende, dass sie die Geliebte des Künstlers gewesen sei, ist sicherlich falsch, denn das Gewand aus Damast und der Schmuck weisen auf ihre gehobene gesellschaftliche Stellung, wie auch der Schleier auf Ehestand und Mutterschaft deutet.",
+      "visible": "false"
+    },
+    {
+      "id": "traum",
+      "name": "Der Traum Raffaels",
+      "artist": "Franz und Johannes Riepenhausen",
+      "position": "-2.6 0.1 -1.3",
+      "transformPosition": "0 0 -3",
+      "transformWidth": "3.5",
+      "transformHeight": "4",
+      "src": "./src/images/madonna/traum.jpg",
+      "width": "1.5",
+      "height": "2",
+      "rotation": "-90 0 0",
+      "description": "Die Brüder Riepenhausen verbildlichen mit dem Gemälde die Legende von der Entstehung der sixtinischen Madonna. Die Komposition zeigt einen in tiefen Schlaf gesunkenen Maler, dessen Gesichtszüge an Raffael erinnern. Er sitzt vor der noch nicht vollendeten Sixtinischen Madonna. Den Pinsel hält er in seiner Rechten, als ihm im Schlaf die auf Wolken stehende Madonna mit dem Kind auf dem Arm erscheint, umgeben von göttlichem Licht. Das Werk der beiden deutschen Maler vermittelt den Eindruck, eine himmlische Vision habe Raffael zu seiner Bildidee geführt.",
+      "visible": "false"
+    },
+    {
+      "id": "sketch",
+      "name": "Studie zu Madonna und Kind",
+      "artist": "Raffael",
+      "position": "2.6 0.1 -1.3",
+      "transformPosition": "0 0 -3",
+      "src": "./src/images/madonna/madonna_sketch.jpg",
+      "transformWidth": "2.15",
+      "transformHeight": "4",
+      "width": "1.5",
+      "height": "2",
+      "rotation": "-90 0 0",
+      "description": "Es haben sich leider keine direkten Vorzeichnungen zur Sixtinischen Madonna erhalten. Diese Skizze könnte entstanden sein, als Raffael sich erste Gedanken zu dem Gemälde machte. Kurz zuvor hatte er die große Altartafel der Madonna di Foligno (Pinacoteca Vatiana) vollendet. Natürlich gibt es noch viele Unterschiede zur Sixtinischen Madonna, doch die frontale Ansicht der Figuren, der Schleider der Gottesmutter wie auch die Seite, auf der sie das Jesuskind hält, deuten auf das Dresdener Bild hin.",
+      "visible": "false"
+    }
+  ]
+}}
